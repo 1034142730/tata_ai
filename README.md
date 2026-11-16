@@ -2,7 +2,7 @@
 
 塔塔 AI Windows 客户端，支持卡密激活、Claude Desktop 配置、余额查询和使用记录。
 
-## 下载（Windows 1.1.7 / Mac 1.1.6）
+## 下载（Windows 1.1.7）
 
 - **[Windows x64 便携版（EXE）](https://github.com/1034142730/tata_ai/releases/download/1.1.7/TataAI-Client-1.1.7-win-x64.exe)**，下载后右击管理员方式运行。
 - [Windows x64 压缩包（ZIP）](https://github.com/1034142730/tata_ai/releases/download/1.1.7/TataAI-Client-1.1.7-win-x64.zip)，解压后管理员运行 EXE。
