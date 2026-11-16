@@ -1,4 +1,4 @@
-# 塔塔 AI 客户端
+# 塔塔 AI claude桌面 一键配置环境 客户端
 
 塔塔 AI Windows 客户端，支持卡密激活、Claude Desktop 配置、余额查询和使用记录。
 
