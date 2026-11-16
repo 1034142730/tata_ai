@@ -58,3 +58,38 @@
 | 登录恢复失败 | 重新连接，或用原账号密码登录 |
 
 向管理员反馈时请提供客户端版本、错误提示和发生时间。截图请遮住密码、邀请码、兑换码和完整卡密。
+
+## Mac 安装与更新（1.1.6）
+
+### 选择安装包
+
+点击苹果菜单 →「关于本机」：
+
+- 显示 Apple 芯片（例如 M1、M2、M3、M4）：[下载 Apple 芯片版 DMG](https://github.com/1034142730/tata_ai/releases/download/1.1.6/TataAI-Client-1.1.6-mac-arm64.dmg)。
+- 显示 Intel 处理器：[下载 Intel 版 DMG](https://github.com/1034142730/tata_ai/releases/download/1.1.6/TataAI-Client-1.1.6-mac-x64.dmg)。
+
+### 安装
+
+1. 下载对应的 DMG，双击打开。
+2. 把「塔塔AI配置工具」拖入「Applications／应用程序」。
+3. 从「应用程序」打开客户端，不要长期直接从 DMG 运行。
+4. 邀请码注册、账号登录、兑换额度与余额查询的操作同 Windows 教程。
+
+本次构建未使用 Apple Developer ID 签名或公证。如果 macOS 提示无法验证开发者，请先确认文件来自上面的仓库；决定继续时，可在「系统设置 → 隐私与安全性」中找到该应用并选择「仍要打开」。参见 [Apple 官方说明](https://support.apple.com/en-us/102445)。不需要关闭系统整体安全保护。
+
+### 配置 Claude Desktop
+
+先安装 Mac 版 Claude Desktop，放到系统或当前用户的 Applications 文件夹。点击客户端「重新检测」后按界面配置步骤操作。注册或充值本身不等于配置完成。
+
+客户端会写入当前用户的 Claude 配置；配置权限或文件异常会报告失败。完成配置后再启动 Claude Desktop。
+
+### 更新
+
+客户端会按当前运行架构选择 GitHub 上的 DMG，下载后验证 SHA-256。
+更新包打开后，退出旧客户端，把 DMG 内的应用拖入「应用程序」并确认替换，再重新打开。
+如果没有权限替换应用，请联系这台 Mac 的管理员。
+
+### 验证范围
+
+两个安装包由 GitHub macOS 构建环境生成，并通过 DMG 完整性校验。已检查路径处理、配置写入失败提示和按架构选择更新包；尚未在用户 Mac 上完成 Claude Desktop 的真实账号端到端验证。
+
