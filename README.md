@@ -1,4 +1,11 @@
-# 塔塔 AI 用户端 1.1.1
+# 下载塔塔 AI 客户端 1.1.5
+
+**[直接下载 Windows x64 便携版（EXE）](https://github.com/1034142730/tata_ai/releases/download/1.1.5/TataAI-Client-1.1.5-win-x64.exe)**
+
+下载后双击 EXE 即可运行。
+
+## 1.1.1 版本说明
+
 
 本版基于1.1.0，改为暖米色、陶土橙、居中问候与输入卡片的Claude启动页风格。
 启动页与首页使用Claude官网Logo，塔塔品牌名称保留。Logo随应用本地打包，不依赖运行时联网加载。
