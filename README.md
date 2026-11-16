@@ -4,8 +4,8 @@
 
 ## 下载 1.1.6
 
-- **[Windows x64 便携版（EXE）](https://github.com/1034142730/tata_ai/releases/download/1.1.6/TataAI-Client-1.1.6-win-x64.exe)**，下载后双击运行。
-- [Windows x64 压缩包（ZIP）](https://github.com/1034142730/tata_ai/releases/download/1.1.6/TataAI-Client-1.1.6-win-x64.zip)，解压后运行 EXE。
+- **[Windows x64 便携版（EXE）](https://github.com/1034142730/tata_ai/releases/download/1.1.6/TataAI-Client-1.1.6-win-x64.exe)**，下载后右击管理员方式运行。
+- [Windows x64 压缩包（ZIP）](https://github.com/1034142730/tata_ai/releases/download/1.1.6/TataAI-Client-1.1.6-win-x64.zip)，解压后管理员运行 EXE。
 
 ## 版本说明
 
@@ -29,7 +29,7 @@
 
 ### 1. 下载与打开
 - [下载 EXE](https://github.com/1034142730/tata_ai/releases/download/1.1.6/TataAI-Client-1.1.6-win-x64.exe)：下载后右击管理员方式运行。
-- [下载 ZIP](https://github.com/1034142730/tata_ai/releases/download/1.1.6/TataAI-Client-1.1.6-win-x64.zip)：解压到自己的文件夹，再运行其中的 EXE。
+- [下载 ZIP](https://github.com/1034142730/tata_ai/releases/download/1.1.6/TataAI-Client-1.1.6-win-x64.zip)：解压到自己的文件夹，再管理员方式运行其中的 EXE。
 - 1.1.5 已停止提供下载。不要同时运行多个版本。
 
 ### 2. 首次注册
