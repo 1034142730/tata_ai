@@ -1,10 +1,10 @@
 # 塔塔 AI 客户端使用教程
 
-适用版本：Windows x64 客户端 1.1.7；Mac 客户端 1.1.6。
+适用版本：Windows x64 客户端 1.1.9；Mac 客户端 1.1.6。
 
 ## 1. 下载与打开
-- [下载 EXE](https://github.com/1034142730/tata_ai/releases/download/1.1.7/TataAI-Client-1.1.7-win-x64.exe)：下载后双击运行。
-- [下载 ZIP](https://github.com/1034142730/tata_ai/releases/download/1.1.7/TataAI-Client-1.1.7-win-x64.zip)：解压到自己的文件夹，再运行其中的 EXE。
+- [下载 EXE](https://github.com/1034142730/tata_ai/releases/download/1.1.9/TataAI-Client-1.1.9-win-x64.exe)：下载后双击运行。
+- [下载 ZIP](https://github.com/1034142730/tata_ai/releases/download/1.1.9/TataAI-Client-1.1.9-win-x64.zip)：解压到自己的文件夹，再运行其中的 EXE。
 - 1.1.5 已停止提供下载。不要同时运行多个版本。
 
 ## 2. 首次注册
@@ -42,7 +42,7 @@ Windows 1.1.7 注册或登录后会自动配置 Claude Desktop；如失败，点
 启动时客户端会检查后台发布的版本：
 - 可选更新：可以先继续使用，再选择更新。
 - 强制更新：检测到新版本后，需完成更新才能继续操作。
-点击更新按钮后等待下载、校验和打开新版本。失败时点击「重试」，或从本仓库 Releases 手动下载。
+Windows 1.1.9 点击「前往 GitHub 下载」会打开浏览器。下载新版 EXE 后，退出旧版再运行新版。
 便携版请将新 EXE 保存在固定文件夹，之后从新文件打开。
 
 ## 9. 常见问题
