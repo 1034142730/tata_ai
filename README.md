@@ -2,12 +2,18 @@
 
 塔塔 AI Windows 客户端，支持卡密激活、Claude Desktop 配置、余额查询和使用记录。
 
-## 下载（Windows 1.1.8）
+## 下载（Windows 1.1.9）
 
-- **[Windows x64 便携版（EXE）](https://github.com/1034142730/tata_ai/releases/download/1.1.8/TataAI-Client-1.1.8-win-x64.exe)**，下载后右击管理员方式运行。
-- [Windows x64 压缩包（ZIP）](https://github.com/1034142730/tata_ai/releases/download/1.1.8/TataAI-Client-1.1.8-win-x64.zip)，解压后管理员运行 EXE。
+- **[Windows x64 便携版（EXE）](https://github.com/1034142730/tata_ai/releases/download/1.1.9/TataAI-Client-1.1.9-win-x64.exe)**，下载后右击管理员方式运行。
+- [Windows x64 压缩包（ZIP）](https://github.com/1034142730/tata_ai/releases/download/1.1.9/TataAI-Client-1.1.9-win-x64.zip)，解压后管理员运行 EXE。
 
 ## 版本说明
+
+### 1.1.9（Windows）
+
+- 默认展开账号注册和登录，卡密激活默认折叠。
+- 更新按钮改为通过浏览器打开 GitHub 下载页面。
+
 
 ### 1.1.7（Windows）
 
@@ -32,11 +38,11 @@
 <!-- client-guide:start -->
 ## 塔塔 AI 客户端使用教程
 
-适用版本：Windows x64 客户端 1.1.8；Mac 客户端 1.1.6。
+适用版本：Windows x64 客户端 1.1.9；Mac 客户端 1.1.6。
 
 ### 1. 下载与打开
-- [下载 EXE](https://github.com/1034142730/tata_ai/releases/download/1.1.8/TataAI-Client-1.1.8-win-x64.exe)：下载后右击管理员方式运行。
-- [下载 ZIP](https://github.com/1034142730/tata_ai/releases/download/1.1.8/TataAI-Client-1.1.8-win-x64.zip)：解压到自己的文件夹，再管理员方式运行其中的 EXE。
+- [下载 EXE](https://github.com/1034142730/tata_ai/releases/download/1.1.9/TataAI-Client-1.1.9-win-x64.exe)：下载后右击管理员方式运行。
+- [下载 ZIP](https://github.com/1034142730/tata_ai/releases/download/1.1.9/TataAI-Client-1.1.9-win-x64.zip)：解压到自己的文件夹，再管理员方式运行其中的 EXE。
 - 1.1.5 已停止提供下载。不要同时运行多个版本。
 
 ### 2. 首次注册
@@ -68,13 +74,13 @@
 
 ### 7. Claude Desktop
 需要使用 Claude Desktop 时，请先安装官方程序，客户端可通过「重新检测」检查是否安装。
-Windows 1.1.8 注册或登录后会自动配置 Claude Desktop；如失败，点击「重新激活」。Mac 1.1.6 暂未包含账号登录后自动激活功能，请按配置提示操作或联系管理员。
+Windows 1.1.9 注册或登录后会自动配置 Claude Desktop；如失败，点击「重新激活」。Mac 1.1.6 暂未包含账号登录后自动激活功能，请按配置提示操作或联系管理员。
 
 ### 8. 更新客户端
 启动时客户端会检查后台发布的版本：
 - 可选更新：可以先继续使用，再选择更新。
 - 强制更新：检测到新版本后，需完成更新才能继续操作。
-点击更新按钮后等待下载、校验和打开新版本。失败时点击「重试」，或从本仓库 Releases 手动下载。
+Windows 1.1.9 点击「前往 GitHub 下载」会打开浏览器。下载新版 EXE 后，退出旧版再运行新版。
 便携版请将新 EXE 保存在固定文件夹，之后从新文件打开。
 
 ### 9. 常见问题
