@@ -1,6 +1,6 @@
 # 塔塔 AI 客户端使用教程
 
-适用版本：Windows x64 客户端 1.1.9；Mac 客户端 1.1.6。
+适用版本：Windows x64 客户端 1.1.9
 
 ## 1. 下载与打开
 - [下载 EXE](https://github.com/1034142730/tata_ai/releases/download/1.1.9/TataAI-Client-1.1.9-win-x64.exe)：下载后双击运行。
