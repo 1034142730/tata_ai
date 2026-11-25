@@ -1,6 +1,6 @@
-# 塔塔 AI claude桌面 一键配置环境 客户端
+#  AI claude桌面 一键配置环境 客户端
 
-塔塔 AI Windows 客户端，支持卡密激活、Claude Desktop 配置、余额查询和使用记录。
+ AI Windows 客户端，支持卡密激活、Claude Desktop 配置、余额查询和使用记录。
 
 ## 下载（Windows 1.1.10）
 
@@ -41,7 +41,7 @@
 ---
 
 <!-- client-guide:start -->
-## 塔塔 AI 客户端使用教程
+##  AI 客户端使用教程
 
 适用版本：Windows x64 客户端 1.1.10
 
